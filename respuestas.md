@@ -9,4 +9,4 @@ ___
 R/. Walmart es una tienda fisica que desea expandir su negocio al mercado en linea (como es el caso de Amazon), Amazon por su parte solo desea mantener su estatus en el mercado en linea como la tienda número 1 de compras online.
 
 ___
-Link del repositorio https://github.com/3rrhe/admin-tecn-inform
+Link del repositorio cd https://github.com/3rrhe/admin-tecn-inform
